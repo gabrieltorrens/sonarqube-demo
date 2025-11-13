@@ -1,2 +1,2 @@
 # sonarqube-demo
-Playing with self-hosted sonarqube
+Playing with sonarqube. This code will be deliberately vulnerable at times.

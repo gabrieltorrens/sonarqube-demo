@@ -2,7 +2,7 @@
 def main():
     number = input("Pick a number: ")
     if number <> 4:
-        return("Wrong number")
+        break #"break" and "continue" should not be used outside a loop
     else:
         return("Correct number")
 
